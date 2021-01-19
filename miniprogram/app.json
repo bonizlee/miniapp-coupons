@@ -4,10 +4,10 @@
   ],
   "window": {
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "先领个券",
-    "navigationBarBackgroundColor": "#0bb9b6",
-    "backgroundColor": "#FFFFFF",
-    "titleView": false
+    "navigationBarTitleText": "友共邻社区互助",
+    "navigationBarBackgroundColor": "#014099",
+    "backgroundColor": "#FFFFFF"
+   
   },
   "sitemapLocation": "sitemap.json",
   "style": "v2"
